@@ -1,0 +1,6 @@
+hello world
+an error occurred
+error error
+ERROR
+no problem
+  error with spaces  
